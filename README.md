@@ -26,6 +26,6 @@ The Instacart stakeholders are most interested in the variety of customers in th
 This project used Jupyter. Python **pandas** were used to clean and analyze the data, and **matplotlib** and **seaborn** for data visualization.
 
 ## Contents
-- [Scripts](Python_Instacart_Basket_Analysis/tree/c180a05f15ddadba1d75b974140d983a22f18d32/Scripts)
-- [Visualizations](Python_Instacart_Basket_Analysis/tree/a6348559f95d6c4e39bd5ce6db29ed20d7eb6682/Visualizations)
+- [Scripts](Scripts)
+- [Visualizations](Visualizations)
 - [Report](Report.xlsx)
