@@ -23,7 +23,9 @@ The Instacart stakeholders are most interested in the variety of customers in th
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on November, 2025.
 
 ## Tools
-This project used Python **pandas** to clean and analyze the data, and **matplotlib** and **seaborn** for data visualization.
+This project used Jupyter. Python **pandas** were used to clean and analyze the data, and **matplotlib** and **seaborn** for data visualization.
 
-## Code
-Python code is available in the project folder [Scripts].
+## Contents
+- [Scripts](/Python_Instacart_Basket_Analysis//blob/main/Scripts)
+- [Visualizations](/Python_Instacart_Basket_Analysis//blob/main/Visualizations)
+- [Report](/Python_Instacart_Basket_Analysis/blob/main/Report.xlsx)
